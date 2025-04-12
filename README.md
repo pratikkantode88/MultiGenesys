@@ -1,2 +1,0 @@
-# MultiGenesys
-Java Development Test
